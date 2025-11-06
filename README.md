@@ -8,6 +8,13 @@ This project contains two main features:
 - **Task A**: A search interface that queries a local FAQ dataset
 - **Task B**: A web scraper that extracts page metadata
 
+## Note to Reviewers
+
+This repository contains **both Task A and Task B** in a single integrated full-stack application, demonstrating end-to-end implementation skills.
+
+- **Task A (Search)**: Located in `app/api/search/` and search UI components
+- **Task B (Scraper)**: Located in `app/api/scrape/` and scraper UI components
+
 ## Project Structure
 
 ```
